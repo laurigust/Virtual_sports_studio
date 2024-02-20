@@ -689,6 +689,10 @@
 			"ChunkId": "474711309ee6ba8900000001"
 		},
 		{
+			"Path": "Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/SpiralBlur-SceneTexture.uasset",
+			"ChunkId": "267812a06398115a00000001"
+		},
+		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset",
 			"ChunkId": "8d4486caf50605b200000001"
 		},
@@ -3849,6 +3853,12 @@
 			]
 		},
 		{
+			"Name": "/Engine/Functions/Engine_MaterialFunctions01/Texturing/SpiralBlur-SceneTexture",
+			"ExportBundleChunkIds": [
+				"267812a06398115a00000001"
+			]
+		},
+		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds",
 			"ExportBundleChunkIds": [
 				"8d4486caf50605b200000001"
@@ -4157,10 +4167,6 @@
 		{
 			"Name": "/Game/Main",
 			"ExportBundleChunkIds": [
-				"6957c7cdba12897f00000001",
-				"6957c7cdba12897f00000001",
-				"6957c7cdba12897f00000001",
-				"6957c7cdba12897f00000001",
 				"6957c7cdba12897f00000001"
 			]
 		},
@@ -5118,8 +5124,6 @@
 		{
 			"Name": "/Game/Team_statistics/BP_BarChart_TeamA",
 			"ExportBundleChunkIds": [
-				"152230ce337ea23500000001",
-				"152230ce337ea23500000001",
 				"152230ce337ea23500000001"
 			]
 		},
