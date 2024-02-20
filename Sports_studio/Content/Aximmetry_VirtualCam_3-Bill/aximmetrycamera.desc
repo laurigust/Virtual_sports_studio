@@ -1,0 +1,8 @@
+FileVersion 1
+Id 5
+CameraVersion 66
+SortOrder 100
+DisplayName Virtual camera (1-3 billboards)
+ToolTip 
+AssetPaths /Game/Aximmetry_VirtualCam_3-Bill/Blueprints/Aximmetry_Virtual_Camera_1-3_Billboards
+Directories Aximmetry_VirtualCam_3-Bill

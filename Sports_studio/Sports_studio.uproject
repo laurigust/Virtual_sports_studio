@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "Aximmetry DE 5.2",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "DataCharts",
+			"Enabled": true
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		}
+	]
+}
